@@ -60,7 +60,7 @@ If testing in Proteus:
 
 ## Block Diagram
 
-![AVR Simple Calculator (LCD + Keypad)]([https://github.com/Ziad-Mohamed14/Simple-Calculator-using-ATMEGA32A-Microcontroller/blob/main/Simple_Calculator.SVG])
+![AVR Simple Calculator (LCD + Keypad)]([https://github.com/Ziad-Mohamed14/Simple-Calculator-using-ATMEGA32A-Microcontroller/blob/main/Simple_Calculator.PDF])
 
 This diagram reflects the high-level system connection of the AVR microcontroller with the LCD (for output) and Keypad (for input), showing data/control signals mapped to `PORTC`, `PORTD`, and `PORTA`.
 
