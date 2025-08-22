@@ -60,7 +60,7 @@ If testing in Proteus:
 
 ## Block Diagram
 
-![Spartan6 - DSP48A1](https://github.com/Ziad-Mohamed14/Spartan6-DSP48A1/blob/main/DSP48A1-block-diagram.png)
+![AVR Simple Calculator (LCD + Keypad)]([https://github.com/Ziad-Mohamed14/Simple-Calculator-using-ATMEGA32A-Microcontroller/blob/main/Simple%20Calculator.SVG])
 
 This diagram reflects the high-level system connection of the AVR microcontroller with the LCD (for output) and Keypad (for input), showing data/control signals mapped to `PORTC`, `PORTD`, and `PORTA`.
 
