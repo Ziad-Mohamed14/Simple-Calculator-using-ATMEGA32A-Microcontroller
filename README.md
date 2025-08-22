@@ -60,7 +60,7 @@ If testing in Proteus:
 
 ## Block Diagram
 
-![Simple Calculator using AVR](https://github.com/Ziad-Mohamed14/SPI-Slave-with-Single-Port-Memory/blob/main/SPI%20With%20Single%20Port%20RAM.png)
+![Simple Calculator using AVR](https://github.com/Ziad-Mohamed14/Simple-Calculator-using-ATMEGA32A-Microcontroller/blob/main/Simple_Calculator.png)
 
 This diagram reflects the high-level system connection of the AVR microcontroller with the LCD (for output) and Keypad (for input), showing data/control signals mapped to `PORTC`, `PORTD`, and `PORTA`.
 
